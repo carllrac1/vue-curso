@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "Jetta",
+        "price": "1200",
+        "year": "2000",
+        "contact": {
+            "dealer": "Carlos",
+            "number": "111-111-1111"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Chevy",
+        "price": "1300",
+        "year": "2002",
+        "contact": {
+            "dealer": "Sam",
+            "number": "222-222-2222"
+        }
+    },
+    {
+        "id": "3",
+        "name": "Nissan",
+        "price": "8000",
+        "year": "1990",
+        "contact": {
+            "dealer": "Ed",
+            "number": "333-333-3333"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Mustang",
+        "price": "20000",
+        "year": "2015",
+        "contact": {
+            "dealer": "Turner",
+            "number": "444-444-4444"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Volvo",
+        "price": "1100",
+        "year": "1991",
+        "contact": {
+            "dealer": "Jess",
+            "number": "555-555-5555"
+        }
+    }
+]
